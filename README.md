@@ -25,5 +25,5 @@ A console-based ATM simulation program using Python.
 - Menu-driven program
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
